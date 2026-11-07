@@ -4,6 +4,9 @@
 
 This mod adds various enchantments to protect items.
 
+> [!NOTE]
+> This mod is under rewriting.
+
 ## Relations
 
 ### Required
